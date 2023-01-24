@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fae2d7e2add76ff409b196943e8147ba
+labels:
+- art
+- texture
+- material
+- skies
+- skybox
+- sky
+- cloudy
+- summer
+- day
+- cubemap
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
